@@ -240,3 +240,8 @@ A great line to tell students:
 ---
 
 ![SQL JOIN DEFAULTS](image.png)
+
+## References
+
+- [Visual Explanation of SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+- [SQL Joins Explained in 5 minutes](https://www.acuitytraining.co.uk/news-tips/introduction-sql-joins/)
