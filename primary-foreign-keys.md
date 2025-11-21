@@ -1,4 +1,4 @@
----
+# Primary and Foreign Keys
 
 # ✅ Parent table (single-column primary key)
 
@@ -12,8 +12,8 @@ CREATE TABLE Persons (
 );
 ```
 
-* `PersonID` is the **only** primary key column.
-* It's automatically `UNIQUE` and `NOT NULL`.
+- `PersonID` is the **only** primary key column.
+- It's automatically `UNIQUE` and `NOT NULL`.
 
 ---
 
